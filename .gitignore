@@ -1,0 +1,11 @@
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+Data/
+
+fig/
+图像.xlsx
